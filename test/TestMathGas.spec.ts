@@ -15,7 +15,7 @@ beforeEach(async function () {
   const [first, ...rest] = await ethers.getSigners()
   owner = first
 
-  // Get contracts for TestERC20, Pool, Asset
+  // Get contracts for TestMathGas
   TestMathGas = await ethers.getContractFactory('TestMathGas')
 })
 

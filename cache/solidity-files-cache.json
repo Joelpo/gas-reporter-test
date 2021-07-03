@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "/Users/joel/code/platypus-finance/eth-gas-reporter-test/contracts/test/TestMathGas.sol": {
-      "lastModificationDate": 1625233450448,
-      "contentHash": "31e57ac55dc4e4cc73d538ff9010b476",
+      "lastModificationDate": 1625235408357,
+      "contentHash": "5f7a6e0c7eb5cdcb380d54db105e9afb",
       "sourceName": "contracts/test/TestMathGas.sol",
       "solcConfig": {
         "version": "0.8.5",
